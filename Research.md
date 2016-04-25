@@ -47,7 +47,7 @@
 
 1. 
     - This
-![alt tag](http://assets1.bigthink.com/system/idea_thumbnails/57308/primary/friendly_man.jpg?1418487879)
+![alt tag](http://assets1.bigthink.com/system/idea_thumbnails/57308/primary/friendly_man.jpg?1418487879 | 100)
 
     - Not
 ![alt tag](http://previews.123rf.com/images/vgstudio/vgstudio0811/vgstudio081100058/3868523-Unfriendly-serious-businessman-or-security-man-gesturing-isolated-on-white-Stock-Photo.jpg)  

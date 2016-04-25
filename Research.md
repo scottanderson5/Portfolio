@@ -1,10 +1,10 @@
 ##Questions for Friends and Family
 
 1) What Actor would play me in a movie and why?
-    - Iain Glen. Admirable with great jaw lines
-    - Jason Bateman
-    - Matthew McConaughey. Blonde, Funny, Southern voice
-    - Mark Hamill. Introspective, Idealist, Highly Imaginative
+    * Iain Glen. Admirable with great jaw lines
+    * Jason Bateman
+    * Matthew McConaughey. Blonde, Funny, Southern voice
+    * Mark Hamill. Introspective, Idealist, Highly Imaginative
 
 2) What color describes me?
     - Dark Brown. Color of an old fashioned pub, friendly and approachable.

@@ -46,25 +46,19 @@
 ##This Not That
 
 1. 
-    - This
-![alt tag](http://assets1.bigthink.com/system/idea_thumbnails/57308/primary/friendly_man.jpg?1418487879 | 30)
+    - This![alt tag](http://assets1.bigthink.com/system/idea_thumbnails/57308/primary/friendly_man.jpg?1418487879)
 
-    - Not
-![alt tag](http://previews.123rf.com/images/vgstudio/vgstudio0811/vgstudio081100058/3868523-Unfriendly-serious-businessman-or-security-man-gesturing-isolated-on-white-Stock-Photo.jpg)  
+    - Not![alt tag](http://previews.123rf.com/images/vgstudio/vgstudio0811/vgstudio081100058/3868523-Unfriendly-serious-businessman-or-security-man-gesturing-isolated-on-white-Stock-Photo.jpg)  
 
 2. 
-    - This
-![alt tag](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQNKlmYUia7l93cXSRk2I8Xn5L0Y_RnnruCQz9VH16YW9rlC7d)  
+    - This![alt tag](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQNKlmYUia7l93cXSRk2I8Xn5L0Y_RnnruCQz9VH16YW9rlC7d)  
 
-    - Not
-![alt tag](http://jewishbusinessnews.com/wp-content/uploads/2015/06/shanghai.jpg)
+    - Not![alt tag](http://jewishbusinessnews.com/wp-content/uploads/2015/06/shanghai.jpg)
 
 3. 
-    - This
-![alt tag](http://media.americantorque.com/photos/2009/07/21/DSC_0099_1.jpg)
+    - This![alt tag](http://media.americantorque.com/photos/2009/07/21/DSC_0099_1.jpg)
 
-    - Not
-![alt tag](http://g02.a.alicdn.com/kf/HTB1dNt5IpXXXXcTXXXXq6xXFXXXn/Bugatti-font-b-Cars-b-font-Silk-Canvas-Wall-Posters-HD-Large-Modern-Home-Bedroom-Decoration.jpg)    
+    - Not![alt tag](http://g02.a.alicdn.com/kf/HTB1dNt5IpXXXXcTXXXXq6xXFXXXn/Bugatti-font-b-Cars-b-font-Silk-Canvas-Wall-Posters-HD-Large-Modern-Home-Bedroom-Decoration.jpg)    
 
 ##Personal Wordlist
 

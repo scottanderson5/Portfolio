@@ -43,10 +43,6 @@
     - Hummingbird. Hard Worker when necessary but fun and playful.
     - Deer. Gentle, Peaceful, In touch with inner child.
 
-##This Not That
-
-
-
 ##Personal Wordlist
 
 1. Blonde

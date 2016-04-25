@@ -1,31 +1,31 @@
 ##Questions for Friends and Family
 
-1) What Actor would play me in a movie and why?
-    *Iain Glen. Admirable with great jaw lines
-    * Jason Bateman
-    * Matthew McConaughey. Blonde, Funny, Southern voice
-    * Mark Hamill. Introspective, Idealist, Highly Imaginative
+1. What Actor would play me in a movie and why?
+    - Iain Glen. Admirable with great jaw lines
+    - Jason Bateman
+    - Matthew McConaughey. Blonde, Funny, Southern voice
+    - Mark Hamill. Introspective, Idealist, Highly Imaginative
 
-2) What color describes me?
+2. What color describes me?
     - Dark Brown. Color of an old fashioned pub, friendly and approachable.
     - Maroon
     - Navy Blue
     - Green. Charming and balanced
     - Orange. Positive, Bright and Funny.
 
-3) If I had a superpower what would it be? Not really asking to be compared to a superhero in particular.
+3. If I had a superpower what would it be? Not really asking to be compared to a superhero in particular.
     - Telepathy
     - Teleportation
     - Ability to keep a straight face in the most hilarious situations
     - Time Manipulation
 
-4) What band would you hire to write a theme song for me?
+4. What band would you hire to write a theme song for me?
     - Asia doing a power ballad in an open air arena (Heat of the Moment).
     - Blur
     - Spin Doctors
     - The Rolling Stones
 
-5) What are 3 words that describe me (not artsy, designy, or creative)?
+5. What are 3 words that describe me (not artsy, designy, or creative)?
     - Friendly, Honest, Affable
     - Pensive, Friendly, Low-pressure
     - Deadpan, Direct, Funny, Deliberate, Knowlegable
@@ -33,7 +33,7 @@
 
 (extra question for only a couple people)
 
-6) What animal would describe me and why?
+6. What animal would describe me and why?
     - Hummingbird. Hard Worker when necessary but fun and playful.
     - Deer. Gentle, Peaceful, In touch with inner child.
 

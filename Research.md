@@ -46,7 +46,7 @@
 ##This Not That
 
 1. 
-    - This![alt tag](http://assets1.bigthink.com/system/idea_thumbnails/57308/primary/friendly_man.jpg?1418487879)
+    - ###This![alt tag](http://assets1.bigthink.com/system/idea_thumbnails/57308/primary/friendly_man.jpg?1418487879)
 
     - Not![alt tag](http://previews.123rf.com/images/vgstudio/vgstudio0811/vgstudio081100058/3868523-Unfriendly-serious-businessman-or-security-man-gesturing-isolated-on-white-Stock-Photo.jpg)  
 
@@ -55,9 +55,9 @@
     
     ![alt tag](https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQQNKlmYUia7l93cXSRk2I8Xn5L0Y_RnnruCQz9VH16YW9rlC7d)  
 
-    - Not!
+    - Not
     
-    [alt tag](http://jewishbusinessnews.com/wp-content/uploads/2015/06/shanghai.jpg)
+    ![alt tag](http://jewishbusinessnews.com/wp-content/uploads/2015/06/shanghai.jpg)
 
 3. 
     - This
@@ -66,7 +66,16 @@
 
     - Not
     
-    ![alt tag](http://g02.a.alicdn.com/kf/HTB1dNt5IpXXXXcTXXXXq6xXFXXXn/Bugatti-font-b-Cars-b-font-Silk-Canvas-Wall-Posters-HD-Large-Modern-Home-Bedroom-Decoration.jpg)    
+    ![alt tag](http://g02.a.alicdn.com/kf/HTB1dNt5IpXXXXcTXXXXq6xXFXXXn/Bugatti-font-b-Cars-b-font-Silk-Canvas-Wall-Posters-HD-Large-Modern-Home-Bedroom-Decoration.jpg)  
+
+4.
+    - This
+    
+    ![alt tag](http://cdn4.thr.com/sites/default/files/2014/02/better_than_ezra_pr_2014_l.jpg)
+
+    - Not
+
+    ![alt tag](http://s3.amazonaws.com/content.sitezoogle.com/u/140534/d4a78adacc009a9cb9b5b8c41debd4563aebfe41/original/lil-wayne-july-august-xxl-magazine-scans7.jpg?1426252621)
 
 ##Personal Wordlist
 

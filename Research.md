@@ -6,6 +6,8 @@
     - Matthew McConaughey. Blonde, Funny, Southern voice
     - Mark Hamill. Introspective, Idealist, Highly Imaginative
     - Bradley Cooper. Can be funny or serious.
+    - Robert Redford. 
+    - John Tartaglia (Avenue Q). Similar Personality.
 
 2. What color describes me?
     - Dark Brown. Color of an old fashioned pub, friendly and approachable.
@@ -15,6 +17,9 @@
     - Orange. Positive, Bright and Funny.
     - Brown. Warm and approachable.
     - #26ADE4 (light blue)
+    - Pale Blue
+    - Yellow
+    - Blue
 
 3. If I had a superpower what would it be? Not really asking to be compared to a superhero in particular.
     - Telepathy
@@ -22,6 +27,8 @@
     - Ability to keep a straight face in the most hilarious situations
     - Time Manipulation
     - Duplicate yourself to help more people
+    - Time Travel
+    - Time Travel
 
 4. What band would you hire to write a theme song for me?
     - Asia doing a power ballad in an open air arena (Heat of the Moment).
@@ -29,6 +36,7 @@
     - Spin Doctors
     - The Rolling Stones
     - Coldplay
+    - Something similar to the MASH theme song but more uplifiting
 
 5. What are 3 words that describe me (not artsy, designy, or creative)?
     - Friendly, Honest, Affable
@@ -36,12 +44,15 @@
     - Deadpan, Direct, Funny, Deliberate, Knowlegable
     - Kind, Stubborn, Genuine, Forgetful, Loving, Idealistic, Laid-Back, Relaxful
     - Thoughtful, Diligent, Caring
+    - Kind, Patient, Loyal, Friendly, Passionate, Loving, Handsome, Indecisive, Risk Averse, Yields to Others
+    - Caring, Ambitious, Funny
 
 (extra question for only a couple people)
 
 6. What animal would describe me and why?
     - Hummingbird. Hard Worker when necessary but fun and playful.
     - Deer. Gentle, Peaceful, In touch with inner child.
+    - Dog. Had all your best qualities
 
 ##Personal Wordlist
 
@@ -139,4 +150,6 @@
 90. Ocean's 11
 91. Jeans
 92. Bond movies
+93. Sazerac
+94. The Godfather
 
